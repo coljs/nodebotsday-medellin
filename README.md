@@ -2,7 +2,7 @@
 
 El próximo 27 de Julio del 2013 se celebrará el [NodeBots Day](http://nodebotsday.com), un evento internacional donde estaremos realizando Hardware Hacking con Node.js.
 
-En Medellín se realizará en la 5ta edición del [BarCamp Med](http://www.barcampmedellin.org/) - tejido social digital!
+En Medellín se realizará dentro de la 5ta edición del [BarCamp Med](http://www.barcampmedellin.org/) - tejido social digital!
 
 ## Organizan
 El equipo de [MedellínJS](http://medellinjs.org)
@@ -26,10 +26,10 @@ _contenido por definir_
 
 ## Requisitos para participar
 * Tener instalada la última version estable de Node.js (v0.10.x), la pueden descargar de [nodejs.org/download](http://nodejs.org/download/)
-* Instalar el paquete `nodebotsdaymed13` desde npm, ejecutando `npm install nodebotsdaymed13` _pendiente por subir_
+* Instalar el paquete `nodebotsdaymed13` desde npm, ejecutando `npm install nodebotsdaymed13`
 
 ## Bring Your Own Hardware!
-Si tienes alguno de los siguientes dispositivos, tráelos para que sea mucho mas divertido! 
+Si tienes alguno de los siguientes dispositivos, tráelos para que sea mucho mas divertido!
 
 * [Raspberry Pi](http://www.raspberrypi.org/)
 * [Arduino Uno](http://arduino.cc/en/Main/arduinoBoardUno)
