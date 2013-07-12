@@ -33,7 +33,7 @@ Si tienes alguno de los siguientes dispositivos, tráelos para que sea mucho mas
 
 * [Raspberry Pi](http://www.raspberrypi.org/)
 * [Arduino Uno](http://arduino.cc/en/Main/arduinoBoardUno)
-* [Parrot AR Drone 2.0]()
+* [Parrot AR Drone 2.0](http://ardrone2.parrot.com/)
 
 ## Patrocinadores
 
