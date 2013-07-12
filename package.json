@@ -1,0 +1,29 @@
+{
+  "name": "nodebotsdaymed13",
+  "version": "0.0.1",
+  "description": "Modules needed for NodeBots Day 7/27 - Medellin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ColombiaJS/nodebotsday-medellin"
+  },
+  "keywords": [
+    "nodebots",
+    "nodebotsday",
+    "medellin"
+  ],
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColombiaJS/nodebotsday-medellin/issues"
+  },
+  "dependencies": {
+    "johnny-five": "~0.6.16",
+    "ar-drone": "~0.1.0",
+    "onoff": "~0.1.5",
+    "serialport": "~1.1.1"
+  }
+}
