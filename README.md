@@ -1,5 +1,7 @@
 # NodeBots Day 7/27 - Medellín
 
+![NodeBots Medellín](img/nodebots.png)
+
 El próximo 27 de Julio del 2013 se celebrará el [NodeBots Day](http://nodebotsday.com), un evento internacional donde estaremos realizando Hardware Hacking con Node.js.
 
 En Medellín se realizará dentro de la 5ta edición del [BarCamp Med](http://www.barcampmedellin.org/) - tejido social digital!
@@ -37,6 +39,8 @@ Si tienes alguno de los siguientes dispositivos, tráelos para que sea mucho mas
 
 ## Patrocinadores
 
+* Daniel Aristizabal ([@cronopio2](http://twitter.com/cronopio2))
+
 ¡Estamos necesitando patrocinadores!
 
 Si desea ayudar a que este evento tenga un mayor impacto para la ciudad puede donar un [SparkFun Inventor's Kit](https://www.sparkfun.com/products/11227) y lo puede pedir con 20% de descuento!
@@ -46,3 +50,6 @@ Más información sobre los descuentos [aquí](https://github.com/nodebots/nodeb
 ## Agradecimientos
 * [Equipo organizador](http://www.barcampmedellin.org/organizan/) de Barcamp Med 5
 * [Daniel Shaw](http://twitter.com/dshaw), [Raquel Velez](http://twitter.com/rockbot), [Rick Waldron](http://twitter.com/rwaldron), [Juan Pablo Buriticá](http://twitter.com/buritica), [Emily Rose](http://twitter.com/nexxylove) y [Chris Williams](http://twitter.com/voodootikigod)
+
+## Créditos
+* [Robot](http://thenounproject.com/noun/robot/#icon-No6865) designed by [Julien Deveaux](http://thenounproject.com/Julihan) from The Noun Project
