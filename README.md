@@ -38,13 +38,12 @@ Si tienes alguno de los siguientes dispositivos, tráelos para que sea mucho mas
 * [Parrot AR Drone 2.0](http://ardrone2.parrot.com/)
 
 ## Patrocinadores
+¡Muchas gracias a nuestros patrocinadores!
 
 * Daniel Aristizabal ([@cronopio2](http://twitter.com/cronopio2))
-
-¡Estamos necesitando patrocinadores!
+* Barcamp Medellín ([@barcamp_med](http://twitter.com/barcamp_med))
 
 Si desea ayudar a que este evento tenga un mayor impacto para la ciudad puede donar un [SparkFun Inventor's Kit](https://www.sparkfun.com/products/11227) y lo puede pedir con 20% de descuento!
-
 Más información sobre los descuentos [aquí](https://github.com/nodebots/nodebotsday/blob/master/Organizers.md#discounts)
 
 ## Agradecimientos
