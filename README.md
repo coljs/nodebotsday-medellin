@@ -18,7 +18,16 @@ El equipo de [MedellínJS](http://medellinjs.org)
 ## Agenda
 Desde las 9am hasta las 5pm.
 
-_contenido por definir_
+09:00 - NodeBots (Arduino) - Hardware para 4 personas
+10:00 - Raspberrypi Pi y Node.js - Charla y Demo
+11:00 - NodeBots (Arduino) - Hardware para 4 personas
+11:00 - NodeCopter - Charla y Demo
+12:00 - Receso
+01:00 - NodeBots (Arduino) - Hardware para 4 personas
+02:00 - Raspberry Pi y Node.js - Charla y Demo
+03:00 - NodeBots (Arduino) - Hardware para 4 personas
+04:00 - Free Hacking
+05:00 - Cierre
 
 ## Lugar
 [Parque Explora](https://www.google.com/maps?q=Parque+Explora&ll=6.271042,-75.563343&spn=0.018514,0.031972&sll=27.370354217574423,-82.51921790000002&sspn=0.07378589616566318,0.1606115116141169&t=m&dg=opt&hq=Parque+Explora&radius=15000&z=16&iwloc=A)
