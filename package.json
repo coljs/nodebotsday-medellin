@@ -1,6 +1,6 @@
 {
   "name": "nodebotsdaymed13",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Modules needed for NodeBots Day 7/27 - Medellin",
   "main": "index.js",
   "scripts": {
