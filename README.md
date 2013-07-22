@@ -1,6 +1,6 @@
 # NodeBots Day 7/27 - Medellín
 
-![NodeBots Medellín](img/nodebots.png)
+![NodeBots Medellín](https://raw.github.com/ColombiaJS/nodebotsday-medellin/master/img/nodebots.png)
 
 El próximo 27 de Julio del 2013 se celebrará el [NodeBots Day](http://nodebotsday.com), un evento internacional donde estaremos realizando Hardware Hacking con Node.js.
 
