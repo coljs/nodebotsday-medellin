@@ -33,13 +33,17 @@ Desde las 9am hasta las 5pm.
 * 04:00 - Free Hacking
 * 05:00 - Cierre
 
+Para participar en los Talleres de NodeBots pueden trabajar 2 personas
+en un kit, dando cobertura a 64 personas en el día.
+
 ## Lugar
 [Parque Explora](https://www.google.com/maps?q=Parque+Explora&ll=6.271042,-75.563343&spn=0.018514,0.031972&sll=27.370354217574423,-82.51921790000002&sspn=0.07378589616566318,0.1606115116141169&t=m&dg=opt&hq=Parque+Explora&radius=15000&z=16&iwloc=A)
 
 ## Registro
 [barcampmedellin.eventbrite.com](https://barcampmedellin.eventbrite.com/)
 
-## Requisitos para participar
+## Requisitos para participar en los Talleres
+* Portatil con puerto USB y WiFi
 * Tener instalada la última version estable de Node.js (v0.10.x), la pueden descargar de [nodejs.org/download](http://nodejs.org/download/)
 * Instalar el paquete `nodebotsdaymed13` desde npm, ejecutando `npm install nodebotsdaymed13`
 
