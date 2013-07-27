@@ -19,7 +19,7 @@ El equipo de [MedellínJS](http://medellinjs.org)
 Desde las 9am hasta las 5pm.
 
 * 09:00 - NodeBots (Arduino) - Grupo A - Hardware para 4 personas
-* 09:00 - NodeBots (Arduino) - Grupo B - Hardware para 4 personas
+* 09:30 - NodeBots (Arduino) - Grupo B - Hardware para 4 personas
 * 10:00 - Raspberrypi Pi y Node.js - Charla y Demo
 * 11:00 - NodeBots (Arduino) - Grupo C - Hardware para 4 personas
 * 11:30 - NodeBots (Arduino) - Grupo D - Hardware para 4 personas
